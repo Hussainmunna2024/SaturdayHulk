@@ -15,7 +15,7 @@ public class IfElseStatement_1 {
 		}else if (age >= 60) {
 			
 			if(age >= 100) {                                 // Nested if else 
-				System.out.println("You are buru");
+				System.out.print("You are buru");
 				
 			} else {
 				

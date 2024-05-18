@@ -17,7 +17,7 @@ public class AccessModifier {
 	
 	public String name = "Muazzem";
 	
-	private int age = 24;
+	private int age = 29;
 	
 	protected int ssn = 23456789;
 	
